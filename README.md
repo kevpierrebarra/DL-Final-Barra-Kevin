@@ -2,7 +2,9 @@
 
 Este repositorio es una **plantilla** para el proyecto final del curso de *Advanced Machine Learning*.
 
+
 Información del Proyecto
+---------
 Nombre del Estudiant: Kevin Pierre Barra Torres
 Título del Proyecto: Predicción y análisis de Asistencia (Venue) para Artistas en conciertos
 Fecha de Entrega: 04/05/26
