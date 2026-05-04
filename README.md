@@ -10,6 +10,8 @@ Título del Proyecto: Predicción y análisis de Asistencia (Venue) para Artista
 Fecha de Entrega: 04/05/26.
 Profesor: Carlos Mariño
 
+Link de video demostrativo: https://youtu.be/fCH6CFKfeVA
+
 ---
 
 ## Pasos para usar esta plantilla (OBLIGATORIO)
